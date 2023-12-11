@@ -1,5 +1,3 @@
-# Web-cloner
-
 <!-- Project Title -->
 <h1 align="center">Website Cloner</h1>
 
