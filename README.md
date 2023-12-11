@@ -3,7 +3,7 @@
 
 <!-- Description -->
 <p align="center">
-  This Python script clones websites by downloading all their files and assets locally. It scrapes all links on a page, saves them locally, and replaces their references with local paths.
+  This Python script clones basic websites by downloading all their files and assets locally. It scrapes all links on a page, saves them locally, and replaces their references with local paths.
 
   <a href="https://ibb.co/k3jmwKB"><img src="https://i.ibb.co/JxV3Gnt/photo-2023-12-12-04-36-16.jpg" alt="photo-2023-12-12-04-36-16" border="0"></a>
 
